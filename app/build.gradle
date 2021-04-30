@@ -49,7 +49,7 @@ android {
         jvmTarget = '1.8'
     }
 
-    android.applicationVariants.all { variant ->
+   applicationVariants.all { variant ->
         variant.outputs.all {
 
                 //            def outputDir = variant.getPackageApplication().getOutputDirectory().host
@@ -98,7 +98,14 @@ android {
         }
 
     }
+
+    build{
+        doFirst {
+            buildLog()
+        }
+    }
 }
+
 
 dependencies {
 
@@ -120,6 +127,12 @@ dependencies {
 //    compileOnly "com.android.tools.build:gradle:4.1.3"
 }
 
+//获取编译当前安装包的时间
+def buildAppTime() {
+    def buildTime = new Date().format("MM_dd_HH_mm")
+//    def buildTime = new Date().format("yyyy_MM_dd_HH_mm")
+    return buildTime
+}
 
 /**
  * 读取昨天到今天的Git日志信息
