@@ -119,3 +119,23 @@ dependencies {
 
 //    compileOnly "com.android.tools.build:gradle:4.1.3"
 }
+
+
+/**
+ * 读取昨天到今天的Git日志信息
+ * @return
+ */
+def getGitLog() {
+    def todayYmd = new Date().format("yyyy-MM-dd")
+    def beginYmd ="yesterday"
+
+    println("currentTime = " +System.currentTimeMillis())
+    StringBuffer stringBuffer = new StringBuffer()
+    stringBuffer.append(" git log")
+    stringBuffer.append(" --pretty=format:%cr-%s")
+    stringBuffer.append(" --after=\"${beginYmd}\"")
+    stringBuffer.append(" --before=\"${todayYmd}\"")
+    def cmd = stringBuffer.toString()
+    println("cmd =$cmd")
+    return  cmd.execute().text.trim()
+}
