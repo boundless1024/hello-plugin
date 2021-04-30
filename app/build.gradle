@@ -49,7 +49,7 @@ android {
         jvmTarget = '1.8'
     }
 
-   applicationVariants.all { variant ->
+    applicationVariants.all { variant ->
         variant.outputs.all {
 
                 //            def outputDir = variant.getPackageApplication().getOutputDirectory().host
@@ -82,12 +82,12 @@ android {
                 println("\noutput = $output")
                 println("\noutputFileName = $output.outputFileName")
         }
-        variant.getAssembleProvider().get().doLast{
+        variant.getAssembleProvider().get().doLast {
             println("..........copy file begin.........")
-            variant.outputs.forEach{
+            variant.outputs.forEach {
                 file ->
                     println("\nfile = ${file.outputFile}")
-                    copy{
+                    copy {
                         from file.outputFile
                         into new File("/Users/libo/apk")
                     }
@@ -99,11 +99,11 @@ android {
 
     }
 
-//    build{
-//        doLast {
-//            buildLog()
-//        }
-//    }
+    build{
+        doLast {
+            buildLog()
+        }
+    }
 }
 
 
@@ -140,9 +140,9 @@ def buildAppTime() {
  */
 def getGitLog() {
     def todayYmd = new Date().format("yyyy-MM-dd")
-    def beginYmd ="yesterday"
+    def beginYmd = "yesterday"
 
-    println("currentTime = " +System.currentTimeMillis())
+    println("currentTime = " + System.currentTimeMillis())
     StringBuffer stringBuffer = new StringBuffer()
     stringBuffer.append(" git log")
     stringBuffer.append(" --pretty=format:%cr-%s")
@@ -150,10 +150,10 @@ def getGitLog() {
     stringBuffer.append(" --before=\"${todayYmd}\"")
     def cmd = stringBuffer.toString()
     println("cmd =$cmd")
-    return  cmd.execute().text.trim()
+    return cmd.execute().text.trim()
 }
 
-task(log){
+task(log) {
     buildLog()
 }.dependsOn(build)
 
