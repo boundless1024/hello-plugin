@@ -1,0 +1,121 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        google()
+        mavenCentral()
+        jcenter()
+//        maven {
+//            url uri('../repos') //本地Maven仓库地址
+//        }
+
+    }
+    dependencies {
+        classpath 'com.boundless1024.plugin:log:0.0.2'
+    }
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'plugin.log'
+
+def APP_NAME_ABBREVIATION = 'HELLO'
+def DEFAULT_CHANNEL = 'baidu'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.boundless1024.gradle"
+        minSdkVersion 23
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    android.applicationVariants.all { variant ->
+        variant.outputs.all {
+
+                //            def outputDir = variant.getPackageApplication().getOutputDirectory().host
+//            println("outputDir = ${outputDir}")
+
+                //重新定义生成的apk目录信息
+//            def newOutputDir = new File(outputDir, "${File.separator}${APP_NAME_ABBREVIATION}${File.separator}${variant.buildType.name}")
+//            println("newOutputDir = ${newOutputDir}")
+//            variant.getPackageApplication().outputDirectory = newOutputDir
+
+                //重新定义生成的apk目录信息
+//            def newOutputDir = new File(outputDir, "${File.separator}${APP_NAME_ABBREVIATION}${File.separator}${variant.buildType.name}")
+//            println("newOutputDir = ${newOutputDir}")
+//            variant.getPackageApplication().outputDirectory = newOutputDir
+
+//            def versionName = project.android.defaultConfig.versionName
+//            def versionCode = project.android.defaultConfig.versionCode
+//            versionName = versionName.replaceAll("\\.", "_")
+//            def newApkName = "app-${variant.buildType.name}_${APP_NAME}_${DEFAULT_CHANNEL}_${versionName}_${versionCode}_${buildAppTime()}.apk"
+                //新的apk名称
+//            def newApkName = "${APP_NAME_ABBREVIATION}_${DEFAULT_CHANNEL}_${versionName}_${variant.buildType.name}}.apk"
+//            println("newApkName = " + newApkName)
+//            outputFileName = newApkName
+
+
+            output ->
+                println("\nbuildDir = ${buildDir}")
+                println("\nandroid = ${android.buildOutputs}")
+                println("\nvariant = ${variant.getPackageApplicationProvider()}")
+                println("\noutput = $output")
+                println("\noutputFileName = $output.outputFileName")
+        }
+        variant.getAssembleProvider().get().doLast{
+            println("..........copy file begin.........")
+            variant.outputs.forEach{
+                file ->
+                    println("\nfile = ${file.outputFile}")
+                    copy{
+                        from file.outputFile
+                        into new File("/Users/libo/apk")
+                    }
+            }
+            println("..........copy file end.........")
+
+            println("..........ok.........")
+        }
+
+    }
+}
+
+dependencies {
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.3.2'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.2'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.2'
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.2.0'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.2'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.2'
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+//    compileOnly "com.android.tools.build:gradle:4.1.3"
+}

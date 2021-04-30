@@ -1,0 +1,20 @@
+apply plugin: 'maven' //引入maven插件
+
+//配置本地maven仓库，以及物料信息
+
+uploadArchives{
+
+    repositories.mavenDeployer {
+//        repository(url: uri('../repos')) //默认在用户目录下【.m2/repository】目录下-代表 mavenLocal
+//        repository(url: uri('~/.m2/repository'))
+//        repository(url: uri('../repos'))
+        repository(url: uri('/Users/libo/.m2/repository'))
+
+        pom.project {
+            groupId 'com.boundless1024.plugin'
+            artifactId 'log'
+            version  '0.0.2'
+        }
+    }
+
+}
