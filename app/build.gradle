@@ -134,24 +134,6 @@ def buildAppTime() {
     return buildTime
 }
 
-/**
- * 读取昨天到今天的Git日志信息
- * @return
- */
-def getGitLog() {
-    def todayYmd = new Date().format("yyyy-MM-dd")
-    def beginYmd = "yesterday"
-    println("currentTime = " + System.currentTimeMillis())
-    StringBuffer stringBuffer = new StringBuffer()
-    stringBuffer.append(" git log")
-    stringBuffer.append(" --pretty=format:%cr-%s")
-    stringBuffer.append(" --after=\"${beginYmd}\"")
-    stringBuffer.append(" --before=\"${todayYmd}\"")
-    def cmd = stringBuffer.toString()
-    println("cmd =$cmd")
-    return cmd.execute().text.trim()
-}
-
 task(log) {
     buildLog()
 }.dependsOn(build)
@@ -174,4 +156,23 @@ def buildLog() {
     fw.write(builder.toString())
     fw.flush()
     fw.close()
+}
+
+
+/**
+ * 读取昨天到今天的Git日志信息
+ * @return
+ */
+def getGitLog() {
+    def todayYmd = new Date().format("yyyy-MM-dd")
+    def beginYmd = "yesterday"
+    println("currentTime = " + System.currentTimeMillis())
+    StringBuffer stringBuffer = new StringBuffer()
+    stringBuffer.append(" git log")
+    stringBuffer.append(" --pretty=format:%cr-%s")
+    stringBuffer.append(" --after=\"${beginYmd}\"")
+    stringBuffer.append(" --before=\"${todayYmd}\"")
+    def cmd = stringBuffer.toString()
+    println("cmd =$cmd")
+    return cmd.execute().text.trim()
 }
