@@ -18,9 +18,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'plugin.log'
 
-def APP_NAME_ABBREVIATION = 'HELLO'
-def DEFAULT_CHANNEL = 'baidu'
-
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
