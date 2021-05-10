@@ -165,7 +165,7 @@ def buildLog() {
     builder.append("\r\n")
     builder.append("[版本名称]=" + project.android.defaultConfig.versionName)
     builder.append("\r\n")
-    builder.append("[提交记录]=\r\n\t\t  " + getGitLog())
+    builder.append("[提交记录]=\r\n" + getGitLog())
     println("kkkkk = ${builder.toString()}")
     fw.write(builder.toString())
     fw.flush()
