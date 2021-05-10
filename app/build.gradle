@@ -3,7 +3,6 @@ buildscript {
         mavenLocal()
         google()
         mavenCentral()
-        jcenter()
 //        maven {
 //            url uri('../repos') //本地Maven仓库地址
 //        }
