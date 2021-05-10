@@ -138,7 +138,6 @@ def buildAppTime() {
 def getGitLog() {
     def todayYmd = new Date().format("yyyy-MM-dd")
     def beginYmd = "yesterday"
-
     println("currentTime = " + System.currentTimeMillis())
     StringBuffer stringBuffer = new StringBuffer()
     stringBuffer.append(" git log")
@@ -159,14 +158,14 @@ task(log) {
  */
 def buildLog() {
     FileWriter fw = new FileWriter(project.rootDir.absolutePath + File.separator + "log.txt")
-    StringBuilder builder = new StringBuilder();
+    StringBuilder builder = new StringBuilder()
     builder.append("[构建时间]=" + buildAppTime())
     builder.append("\r\n")
     builder.append("[版本编号]=" + project.android.defaultConfig.versionCode)
     builder.append("\r\n")
     builder.append("[版本名称]=" + project.android.defaultConfig.versionName)
     builder.append("\r\n")
-    builder.append("[提交记录]=\r\n" + getGitLog())
+    builder.append("[提交记录]=\r\n\t\t  " + getGitLog())
     println("kkkkk = ${builder.toString()}")
     fw.write(builder.toString())
     fw.flush()
