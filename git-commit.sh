@@ -1,6 +1,8 @@
 #!/bin/bash
 #https://www.cnblogs.com/reasonzzy/p/11653895.html
 
+cd /home/ubuntu/libo/ngrok/hello-plugin
+
 git status
 
 git add -A
