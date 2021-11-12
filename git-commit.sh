@@ -4,4 +4,7 @@
 git status
 
 git add -A
-git commit -a -m `date +'%Y_%m_%d_%H_%M_%S'`
+
+git commit -a -m `date +'%Y_%m_%d_%H_%M_%S'`提交
+
+
