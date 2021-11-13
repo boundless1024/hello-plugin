@@ -155,3 +155,12 @@
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:43:47.945830989+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:44:07.778043761+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:44:37.782088419+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:45:07.786713628+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:45:37.791465133+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:46:07.792373683+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:46:37.796892693+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:47:07.801721272+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:47:37.806517772+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T20:48:07.8081684+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T20:48:38.557735618+08:00"}
+{"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T20:48:39.316777781+08:00"}
