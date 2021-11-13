@@ -6,3 +6,5 @@
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http","obj":"tunnels","t":"2021-11-13T09:22:08.102718115+08:00","url":"https://2684-122-193-42-189.ngrok.io"}
 {"err":"Post \"https://update.equinox.io/check\": context deadline exceeded","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2021-11-13T09:22:09.765732496+08:00"}
 {"id":"8ac0f063034a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:10946","t":"2021-11-13T09:22:39.944443252+08:00"}
+{"id":"4d25bc064269","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.194.68.174:50202","t":"2021-11-13T09:26:02.526985952+08:00"}
+{"id":"15845bad58b0","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.194.68.174:50408","t":"2021-11-13T09:26:07.598069961+08:00"}
