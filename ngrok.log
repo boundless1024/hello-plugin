@@ -42,3 +42,4 @@
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:23:23.425392935+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T11:23:55.115536646+08:00"}
 {"id":"43ce64392f46","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T11:23:55.789481304+08:00"}
+{"id":"2cd039d41ef4","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:56787","t":"2021-11-13T11:26:17.329247752+08:00"}
