@@ -33,3 +33,10 @@
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:17:59.161241136+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T17:18:30.976299707+08:00"}
 {"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T17:18:31.666950692+08:00"}
+{"id":"26f4fd77b121","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:21885","t":"2021-11-13T17:25:05.500771296+08:00"}
+{"id":"c55d9b16b53e","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.208.225:43198","t":"2021-11-13T17:26:08.816346519+08:00"}
+{"id":"291b15214277","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.208.225:43236","t":"2021-11-13T17:26:08.816837612+08:00"}
+{"err":"read EOF from remote peer","id":"5f86b11079c6","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-13T17:27:06.179717441+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T17:27:07.929256496+08:00"}
+{"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T17:27:11.757858425+08:00"}
+{"clientid":"2ae07f7ae769813987e0f12610df32a9","id":"da0f26ea2022","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-13T17:27:14.575307318+08:00"}
