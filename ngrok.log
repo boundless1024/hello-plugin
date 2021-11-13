@@ -1,9 +1,8 @@
-{"addr":"127.0.0.1:4040","lvl":"warn","msg":"can't bind default web address, trying alternatives","obj":"web","t":"2021-11-13T09:13:32.097634457+08:00"}
-{"addr":"127.0.0.1:4041","lvl":"info","msg":"starting web service","obj":"web","t":"2021-11-13T09:13:32.098295052+08:00"}
-{"err":"Your account 'haikuowuya' is limited to 1 simultaneous ngrok client session.\nActive ngrok client sessions in region 'us':\n  - ts_20q3Jy3TDCmWzS4jKHkxlMficBr (122.193.42.189)\r\n\r\nERR_NGROK_108\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-13T09:13:32.810295882+08:00"}
-{"err":"Your account 'haikuowuya' is limited to 1 simultaneous ngrok client session.\nActive ngrok client sessions in region 'us':\n  - ts_20q3Jy3TDCmWzS4jKHkxlMficBr (122.193.42.189)\r\n\r\nERR_NGROK_108\r\n","id":"6e89dad64212","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T09:13:32.810606486+08:00"}
-{"err":"Your account 'haikuowuya' is limited to 1 simultaneous ngrok client session.\nActive ngrok client sessions in region 'us':\n  - ts_20q3Jy3TDCmWzS4jKHkxlMficBr (122.193.42.189)\r\n\r\nERR_NGROK_108\r\n","lvl":"eror","msg":"session closing","obj":"tunnels.session","t":"2021-11-13T09:13:32.810752612+08:00"}
-{"lvl":"info","msg":"received stop request","obj":"app","stopReq":{},"t":"2021-11-13T09:13:32.811232655+08:00"}
-{"err":"Your account 'haikuowuya' is limited to 1 simultaneous ngrok client session.\nActive ngrok client sessions in region 'us':\n  - ts_20q3Jy3TDCmWzS4jKHkxlMficBr (122.193.42.189)\r\n\r\nERR_NGROK_108\r\n","lvl":"eror","msg":"terminating with error","obj":"app","t":"2021-11-13T09:13:32.811478501+08:00"}
-{"err":"Post \"https://update.equinox.io/check\": context canceled","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2021-11-13T09:13:32.811758865+08:00"}
-{"err":"Your account 'haikuowuya' is limited to 1 simultaneous ngrok client session.\nActive ngrok client sessions in region 'us':\n  - ts_20q3Jy3TDCmWzS4jKHkxlMficBr (122.193.42.189)\r\n\r\nERR_NGROK_108\r\n","lvl":"crit","msg":"command failed","t":"2021-11-13T09:13:32.812293037+08:00"}
+{"addr":"127.0.0.1:4040","lvl":"info","msg":"starting web service","obj":"web","t":"2021-11-13T09:22:04.764270013+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T09:22:07.347507017+08:00"}
+{"id":"18b34058164d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T09:22:07.347791549+08:00"}
+{"addr":"//localhost:22","lvl":"info","msg":"started tunnel","name":"tcp","obj":"tunnels","t":"2021-11-13T09:22:07.829874942+08:00","url":"tcp://6.tcp.ngrok.io:14650"}
+{"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http (http)","obj":"tunnels","t":"2021-11-13T09:22:08.102457565+08:00","url":"http://2684-122-193-42-189.ngrok.io"}
+{"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http","obj":"tunnels","t":"2021-11-13T09:22:08.102718115+08:00","url":"https://2684-122-193-42-189.ngrok.io"}
+{"err":"Post \"https://update.equinox.io/check\": context deadline exceeded","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2021-11-13T09:22:09.765732496+08:00"}
+{"id":"8ac0f063034a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:10946","t":"2021-11-13T09:22:39.944443252+08:00"}
