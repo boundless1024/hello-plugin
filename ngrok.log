@@ -178,3 +178,12 @@
 {"id":"b9eb5d698588","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:18581","t":"2021-11-13T20:59:41.564780537+08:00"}
 {"id":"144111cd7d58","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:47464","t":"2021-11-13T21:05:07.277542017+08:00"}
 {"id":"44650f7a8d47","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:61847","t":"2021-11-13T21:07:48.363849866+08:00"}
+{"err":"read EOF from remote peer","id":"5f86b11079c6","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-13T21:10:03.754367825+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T21:10:04.447022963+08:00"}
+{"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T21:10:05.264815077+08:00"}
+{"clientid":"2ae07f7ae769813987e0f12610df32a9","id":"ebd1b8762590","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-13T21:10:12.682870227+08:00"}
+{"err":"read EOF from remote peer","id":"5f86b11079c6","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-13T21:14:09.654499772+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T21:14:10.44409566+08:00"}
+{"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T21:14:11.332344403+08:00"}
+{"id":"3a8dd0856f27","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:31950","t":"2021-11-13T21:14:11.333361197+08:00"}
+{"clientid":"2ae07f7ae769813987e0f12610df32a9","id":"4af7f716f9c5","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-13T21:14:15.333752515+08:00"}
