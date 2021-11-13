@@ -24,3 +24,21 @@
 {"id":"fec8f469321b","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:35040","t":"2021-11-13T11:07:14.297932597+08:00"}
 {"id":"c370a34e87e0","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:52159","t":"2021-11-13T11:11:05.350861018+08:00"}
 {"id":"b453976bc90d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:9933","t":"2021-11-13T11:16:01.641881273+08:00"}
+{"id":"9b22fcf676f6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:28545","t":"2021-11-13T11:20:08.539952663+08:00"}
+{"clientid":"3db5ef454bcc05f26ee14e8998748abe","id":"62464e6d0953","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-13T11:21:31.266148723+08:00"}
+{"err":"session closed","id":"43ce64392f46","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-13T11:21:31.267037735+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:31.270660611+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:31.774301002+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:32.561605335+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:33.632596837+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:35.239852201+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:37.788732578+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:41.341165428+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:47.317994893+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:21:56.075484262+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:22:10.426182129+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:22:28.987094944+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:22:53.420950932+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"43ce64392f46","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T11:23:23.425392935+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T11:23:55.115536646+08:00"}
+{"id":"43ce64392f46","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T11:23:55.789481304+08:00"}
