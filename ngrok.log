@@ -15,3 +15,7 @@
 {"addr":"//localhost:22","lvl":"info","msg":"started tunnel","name":"tcp","obj":"tunnels","t":"2021-11-13T17:04:54.228395176+08:00","url":"tcp://4.tcp.ngrok.io:18317"}
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http (http)","obj":"tunnels","t":"2021-11-13T17:04:54.478912276+08:00","url":"http://3a33-122-193-42-189.ngrok.io"}
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http","obj":"tunnels","t":"2021-11-13T17:04:54.479164758+08:00","url":"https://3a33-122-193-42-189.ngrok.io"}
+{"id":"7af5e1f8094a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:18475","t":"2021-11-13T17:06:39.305022121+08:00"}
+{"id":"caf07cc6056c","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:18481","t":"2021-11-13T17:06:44.573820166+08:00"}
+{"id":"ad5748928280","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.231.25.105:57826","t":"2021-11-13T17:07:34.975299638+08:00"}
+{"id":"349195a19ab0","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.231.25.105:54744","t":"2021-11-13T17:07:42.807258583+08:00"}
