@@ -16,3 +16,20 @@
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http","obj":"tunnels","t":"2021-11-13T17:12:40.523516699+08:00","url":"https://9fcb-122-193-42-189.ngrok.io"}
 {"id":"94ec8145280f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:19388","t":"2021-11-13T17:13:36.692699717+08:00"}
 {"id":"3ed79688b2b5","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:19396","t":"2021-11-13T17:13:41.415059093+08:00"}
+{"clientid":"2ae07f7ae769813987e0f12610df32a9","id":"3419d732c7d4","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-13T17:15:58.411047533+08:00"}
+{"err":"session closed","id":"5f86b11079c6","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-13T17:15:58.412020997+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:15:58.415869224+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:15:58.920358739+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:15:59.790604273+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:01.20615856+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:03.011069235+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:05.362460322+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:08.640544435+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:14.143184632+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:23.316237777+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:36.145498817+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:16:53.879620714+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:17:19.160333324+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-13T17:17:59.161241136+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T17:18:30.976299707+08:00"}
+{"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T17:18:31.666950692+08:00"}
