@@ -40,3 +40,5 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-13T17:27:07.929256496+08:00"}
 {"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-13T17:27:11.757858425+08:00"}
 {"clientid":"2ae07f7ae769813987e0f12610df32a9","id":"da0f26ea2022","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-13T17:27:14.575307318+08:00"}
+{"id":"9aa15fee83bd","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:59262","t":"2021-11-13T17:31:31.731707482+08:00"}
+{"id":"777bdbc72a55","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:14715","t":"2021-11-13T17:34:54.287814233+08:00"}
