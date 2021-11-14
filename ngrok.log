@@ -223,3 +223,6 @@
 {"err":"session closed","id":"794ce78c037b","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-15T01:45:19.782868259+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-15T01:45:20.756812614+08:00"}
 {"id":"794ce78c037b","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-15T01:45:21.45351097+08:00"}
+{"id":"446aad5f811f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.29.48:34260","t":"2021-11-15T01:53:16.42688106+08:00"}
+{"id":"dcdba9c5936e","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.29.48:34432","t":"2021-11-15T01:53:22.40611738+08:00"}
+{"id":"3f5cc0bf2dcc","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.29.48:34524","t":"2021-11-15T01:53:26.330744853+08:00"}
