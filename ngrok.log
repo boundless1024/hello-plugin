@@ -45,3 +45,6 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-14T13:01:29.484602785+08:00"}
 {"id":"ec0da90ba59f","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-14T13:01:30.241897814+08:00"}
 {"id":"148e93a0dfad","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:40418","t":"2021-11-14T13:03:09.778301286+08:00"}
+{"id":"04c1dddfdd61","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.169.240:57964","t":"2021-11-14T13:07:10.953177939+08:00"}
+{"id":"0948a7d4d0fe","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.169.240:57936","t":"2021-11-14T13:07:10.953178587+08:00"}
+{"id":"a0e373d4434e","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:55374","t":"2021-11-14T13:09:37.783211174+08:00"}
