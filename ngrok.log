@@ -616,3 +616,4 @@
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:09:17.023503181+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-14T12:09:18.739253845+08:00"}
 {"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-14T12:09:20.227251492+08:00"}
+{"id":"17f5ba31fcc9","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:17026","t":"2021-11-14T12:16:00.415427934+08:00"}
