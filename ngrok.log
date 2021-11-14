@@ -12,3 +12,17 @@
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:38:37.817463389+08:00"}
 {"err":"dial tcp 3.20.27.198:443: i/o timeout","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:39:07.895709971+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:39:34.2775182+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:40:14.27938157+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:40:44.376329973+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:41:14.37698425+08:00"}
+{"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:41:46.089608043+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:42:26.091674111+08:00"}
+{"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:42:57.620227787+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"4648cc4601d1","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:43:27.621358106+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-14T13:43:58.447530453+08:00"}
+{"id":"4648cc4601d1","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-14T13:43:58.447826456+08:00"}
+{"addr":"//localhost:22","lvl":"info","msg":"started tunnel","name":"tcp","obj":"tunnels","t":"2021-11-14T13:43:58.700591134+08:00","url":"tcp://6.tcp.ngrok.io:13100"}
+{"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http (http)","obj":"tunnels","t":"2021-11-14T13:43:59.043064083+08:00","url":"http://d241-122-193-42-189.ngrok.io"}
+{"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http","obj":"tunnels","t":"2021-11-14T13:43:59.043343734+08:00","url":"https://d241-122-193-42-189.ngrok.io"}
+{"id":"111251177896","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.169.148:39140","t":"2021-11-14T13:44:02.712968593+08:00"}
+{"id":"dd7a546578f3","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.169.148:39230","t":"2021-11-14T13:44:07.074939126+08:00"}
