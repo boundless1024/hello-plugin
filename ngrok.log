@@ -27,3 +27,16 @@
 {"id":"7e4dcd747808","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.169.240:43732","t":"2021-11-14T12:45:34.409812644+08:00"}
 {"id":"2481d4f9299d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:33076","t":"2021-11-14T12:47:00.232111905+08:00"}
 {"id":"649c20c52224","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:39550","t":"2021-11-14T12:50:27.978851529+08:00"}
+{"clientid":"8acc72b6892653ad37a333780ae7d945","id":"43d9e287f7a4","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-14T12:58:32.056408954+08:00"}
+{"err":"session closed","id":"ec0da90ba59f","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-14T12:58:32.057308274+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:32.061155071+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:32.564965851+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:33.328348318+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:34.453815518+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:36.249777362+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:39.268641383+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:43.230163637+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:58:49.914386101+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:59:00.315595612+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:59:17.735946628+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:59:45.995487843+08:00"}
