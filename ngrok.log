@@ -606,3 +606,13 @@
 {"id":"fb4a56c9f31c","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:19926","t":"2021-11-14T11:54:08.826466029+08:00"}
 {"id":"01f5d326d0a3","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"177.54.63.21:54092","t":"2021-11-14T12:01:08.621111968+08:00"}
 {"id":"ffdcd4db1d6c","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:62063","t":"2021-11-14T12:01:15.720734505+08:00"}
+{"id":"c4bf6f428fd9","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:22531","t":"2021-11-14T12:05:33.974443064+08:00"}
+{"id":"9b1525cb593d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:32882","t":"2021-11-14T12:07:18.297939617+08:00"}
+{"id":"cc6adce83ffd","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.175.33:44432","t":"2021-11-14T12:08:43.066022771+08:00"}
+{"id":"b5a99402f0b7","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.175.33:34450","t":"2021-11-14T12:08:47.740463541+08:00"}
+{"id":"fc8fb2854643","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.175.33:40764","t":"2021-11-14T12:08:51.666540129+08:00"}
+{"clientid":"2ae07f7ae769813987e0f12610df32a9","id":"b4e62adc9fb1","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-14T12:09:17.018536353+08:00"}
+{"err":"session closed","id":"5f86b11079c6","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-14T12:09:17.019428404+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:09:17.023503181+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-14T12:09:18.739253845+08:00"}
+{"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-14T12:09:20.227251492+08:00"}
