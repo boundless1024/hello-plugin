@@ -40,3 +40,8 @@
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:59:00.315595612+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:59:17.735946628+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T12:59:45.995487843+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:00:15.999745205+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"ec0da90ba59f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T13:00:56.001189457+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-14T13:01:29.484602785+08:00"}
+{"id":"ec0da90ba59f","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-14T13:01:30.241897814+08:00"}
+{"id":"148e93a0dfad","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:40418","t":"2021-11-14T13:03:09.778301286+08:00"}
