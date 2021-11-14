@@ -561,3 +561,24 @@
 {"id":"a6b3394ee057","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:45097","t":"2021-11-14T09:49:23.986076836+08:00"}
 {"id":"d59b02ac74a4","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:28186","t":"2021-11-14T09:57:34.815225634+08:00"}
 {"id":"58ca371f6917","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:42069","t":"2021-11-14T09:59:52.397794851+08:00"}
+{"err":"read EOF from remote peer","id":"5f86b11079c6","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-14T10:27:35.433640988+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-14T10:27:39.187322316+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:27:39.187619082+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-14T10:27:43.583863283+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:27:43.584179512+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-14T10:27:48.064006+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:27:48.064516018+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-14T10:27:52.970652087+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:27:52.970976167+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-14T10:27:58.375036558+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:27:58.375396527+08:00"}
+{"clientid":"2ae07f7ae769813987e0f12610df32a9","id":"8194ab99b650","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-14T10:27:59.511706691+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-14T10:28:04.659014868+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:28:04.659346429+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-14T10:28:09.938499081+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:28:13.562582349+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","lvl":"eror","msg":"failed to auth","obj":"tunnels.session","t":"2021-11-14T10:28:23.295650767+08:00"}
+{"err":"internal server error\r\n\r\nERR_NGROK_802\r\n","id":"5f86b11079c6","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-14T10:28:23.295934294+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-14T10:28:34.951225684+08:00"}
+{"id":"5f86b11079c6","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-14T10:28:36.175282107+08:00"}
+{"id":"cee73850f8ef","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.153:23302","t":"2021-11-14T10:29:31.692678978+08:00"}
