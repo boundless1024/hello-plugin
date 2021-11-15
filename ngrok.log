@@ -341,3 +341,10 @@
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"794ce78c037b","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T08:08:41.008331725+08:00"}
 {"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"794ce78c037b","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T08:09:11.013243458+08:00"}
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"794ce78c037b","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T08:09:41.014598442+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"794ce78c037b","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T08:10:11.019256317+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"794ce78c037b","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T08:10:41.024445968+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"794ce78c037b","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T08:11:11.028548865+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"794ce78c037b","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T08:11:41.029480292+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-15T08:12:11.980372024+08:00"}
+{"id":"794ce78c037b","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-15T08:12:12.760140123+08:00"}
+{"id":"41c57956d0e1","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"87.251.64.139:64267","t":"2021-11-15T08:14:47.430255602+08:00"}
