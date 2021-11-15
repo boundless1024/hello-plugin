@@ -1,10 +1,7 @@
-{"addr":"127.0.0.1:4040","lvl":"info","msg":"starting web service","obj":"web","t":"2021-11-15T09:47:46.933526752+08:00"}
-{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-15T09:47:48.027076696+08:00"}
-{"id":"a2e9a4d1714f","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-15T09:47:48.027286215+08:00"}
-{"err":"Post \"https://update.equinox.io/check\": dial tcp 54.161.241.46:443: i/o timeout","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2021-11-15T09:47:50.028776843+08:00"}
-{"clientid":"e5573de90f3bcb2018e11963b2af2c87","id":"8ca61f104952","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-15T09:48:44.996110393+08:00"}
-{"err":"session closed","id":"a2e9a4d1714f","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-15T09:48:44.997285001+08:00"}
-{"err":"session closed","lvl":"eror","msg":"session closing","obj":"tunnels.session","t":"2021-11-15T09:48:44.997745293+08:00"}
-{"lvl":"info","msg":"received stop request","obj":"app","stopReq":{},"t":"2021-11-15T09:48:44.998058631+08:00"}
-{"err":"session closed","lvl":"eror","msg":"terminating with error","obj":"app","t":"2021-11-15T09:48:44.998325789+08:00"}
-{"err":"session closed","lvl":"crit","msg":"command failed","t":"2021-11-15T09:48:44.999162383+08:00"}
+{"addr":"127.0.0.1:4040","lvl":"info","msg":"starting web service","obj":"web","t":"2021-11-15T20:59:57.326382309+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"42382ce9db3a","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T20:59:57.335236365+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"42382ce9db3a","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T20:59:57.846512624+08:00"}
+{"err":"Post \"https://update.equinox.io/check\": dial tcp: lookup update.equinox.io on 127.0.0.53:53: server misbehaving","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2021-11-15T20:59:58.141066809+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"42382ce9db3a","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T20:59:58.540564771+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"42382ce9db3a","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T20:59:59.645353326+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"42382ce9db3a","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T21:00:01.395197825+08:00"}
