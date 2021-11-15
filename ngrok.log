@@ -81,3 +81,4 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-15T22:11:24.715804133+08:00"}
 {"id":"503130da03ca","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-15T22:11:25.598543475+08:00"}
 {"id":"e58b602e85da","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:18576","t":"2021-11-15T22:11:39.692055023+08:00"}
+{"id":"13b8eb81d0d6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:34526","t":"2021-11-15T22:18:32.162811918+08:00"}
