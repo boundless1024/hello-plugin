@@ -76,3 +76,8 @@
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T22:08:40.349691646+08:00"}
 {"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T22:09:10.858597777+08:00"}
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": context deadline exceeded","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T22:09:50.860973325+08:00"}
+{"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T22:10:23.930132041+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-15T22:10:53.930971916+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-15T22:11:24.715804133+08:00"}
+{"id":"503130da03ca","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-15T22:11:25.598543475+08:00"}
+{"id":"e58b602e85da","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:18576","t":"2021-11-15T22:11:39.692055023+08:00"}
