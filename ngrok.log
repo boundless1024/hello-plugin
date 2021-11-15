@@ -18,3 +18,7 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-15T21:14:41.275663893+08:00"}
 {"id":"cef0734685b1","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-15T21:14:42.040296875+08:00"}
 {"clientid":"b8123c9ef5b5111e35331328ddf7c596","id":"98c8248b030c","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-15T21:14:50.495326724+08:00"}
+{"id":"feba1e014721","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:47726","t":"2021-11-15T21:21:36.96194556+08:00"}
+{"id":"1575fc5b1d7f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:17672","t":"2021-11-15T21:23:37.036950053+08:00"}
+{"id":"8a93acbe93db","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"122.193.42.189:17692","t":"2021-11-15T21:23:43.090615872+08:00"}
+{"id":"9bae0adc0c79","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:59854","t":"2021-11-15T21:24:14.652510857+08:00"}
