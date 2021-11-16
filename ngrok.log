@@ -1849,3 +1849,10 @@
 {"id":"82e7ea808bca","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.138.116.13:46956","t":"2021-11-16T23:18:16.047057322+08:00"}
 {"id":"fe05bf37f176","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.138.116.13:46960","t":"2021-11-16T23:18:16.051488024+08:00"}
 {"id":"aead2a88e820","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:35886","t":"2021-11-16T23:19:23.392050228+08:00"}
+{"err":"read EOF from remote peer","id":"503130da03ca","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-16T23:22:11.964374153+08:00"}
+{"clientid":"1afa81283d18cf0a718e718a4b39f34f","id":"5ef2476590a2","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-16T23:22:20.532316284+08:00"}
+{"err":"dial tcp 3.12.62.205:443: i/o timeout","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T23:22:21.965430339+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-16T23:22:23.222417535+08:00"}
+{"id":"503130da03ca","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-16T23:22:23.968855404+08:00"}
+{"id":"96c71d2668fc","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.138.116.13:42992","t":"2021-11-16T23:24:47.722707235+08:00"}
+{"id":"f2a569c73380","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.138.116.13:42994","t":"2021-11-16T23:24:47.722782863+08:00"}
