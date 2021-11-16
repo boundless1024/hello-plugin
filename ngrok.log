@@ -1155,3 +1155,19 @@
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:48:53.233022054+08:00"}
 {"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:49:23.237714095+08:00"}
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:49:53.238730762+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:50:23.242915535+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:50:53.247326801+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:51:23.252131251+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:51:53.253590847+08:00"}
+{"err":"Post \"https://update.equinox.io/check\": dial tcp: lookup update.equinox.io on 127.0.0.53:53: server misbehaving","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2021-11-16T09:51:56.034874231+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:52:23.257882096+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-16T09:52:54.012088828+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:10443' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:52:54.258359085+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-16T09:53:25.167974616+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:10443' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:53:25.421188592+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-16T09:53:56.193058361+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:10443' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:53:56.446553509+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-16T09:54:27.11548128+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:10443' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:54:27.338202961+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-16T09:54:58.157152708+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:10443' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"503130da03ca","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-16T09:54:58.502374418+08:00"}
