@@ -2924,3 +2924,11 @@
 {"id":"50a26ace0ee5","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.201.252:55486","t":"2021-11-17T20:39:13.694498553+08:00"}
 {"id":"ae72775b6106","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.68.221:34244","t":"2021-11-17T20:39:46.199682219+08:00"}
 {"id":"58f8274597af","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.68.221:34242","t":"2021-11-17T20:39:46.454318225+08:00"}
+{"id":"900bc45fcccc","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.17.254:47004","t":"2021-11-17T20:40:09.653994289+08:00"}
+{"id":"14143943daf7","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:39576","t":"2021-11-17T20:41:36.281772159+08:00"}
+{"clientid":"1afa81283d18cf0a718e718a4b39f34f","id":"5f23af638248","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-17T20:42:19.181864585+08:00"}
+{"err":"session closed","id":"503130da03ca","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-17T20:42:19.182324669+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-17T20:42:20.151173428+08:00"}
+{"id":"503130da03ca","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-17T20:42:21.03775748+08:00"}
+{"id":"a868ba733055","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.17.254:54366","t":"2021-11-17T20:44:42.037153074+08:00"}
+{"id":"4e9fb1ff88ea","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.17.254:54602","t":"2021-11-17T20:44:46.712026986+08:00"}
