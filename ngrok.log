@@ -7677,3 +7677,13 @@
 {"id":"2d0dcbe4c87d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.92.166:43100","t":"2021-11-21T07:54:51.071321882+08:00"}
 {"id":"e91579bec13e","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.236.178.97:38554","t":"2021-11-21T07:54:56.900941905+08:00"}
 {"id":"91128818500e","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.236.178.97:38592","t":"2021-11-21T07:54:57.918995076+08:00"}
+{"id":"42ee82179f41","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.236.178.97:32956","t":"2021-11-21T07:55:03.68862811+08:00"}
+{"id":"500470ba9655","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.92.166:48538","t":"2021-11-21T07:55:43.31655491+08:00"}
+{"id":"f79365171280","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.92.166:48542","t":"2021-11-21T07:55:43.316554947+08:00"}
+{"err":"read EOF from remote peer","id":"503130da03ca","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-21T07:56:58.416664216+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-21T07:56:59.329993755+08:00"}
+{"id":"503130da03ca","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-21T07:57:00.048358645+08:00"}
+{"clientid":"1afa81283d18cf0a718e718a4b39f34f","id":"a42b754a55fe","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-21T07:57:07.991880171+08:00"}
+{"id":"2b6c54a22b63","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.188.245.145:60096","t":"2021-11-21T07:57:25.52674152+08:00"}
+{"id":"40d2a6aa4fe1","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:46926","t":"2021-11-21T07:58:22.804715309+08:00"}
+{"id":"103211450c74","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.188.245.145:35510","t":"2021-11-21T07:58:25.093177113+08:00"}
