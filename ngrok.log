@@ -8959,3 +8959,8 @@
 {"err":"session closed","id":"503130da03ca","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-22T09:14:06.461198215+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-22T09:14:07.569014548+08:00"}
 {"id":"503130da03ca","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-22T09:14:08.232325483+08:00"}
+{"id":"8d39d9015075","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.224.96.89:56340","t":"2021-11-22T09:15:10.569308538+08:00"}
+{"id":"62a163cb92e3","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.237.143.190:46060","t":"2021-11-22T09:16:28.556058526+08:00"}
+{"id":"1a879ebaecde","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.237.143.190:46056","t":"2021-11-22T09:16:28.560817433+08:00"}
+{"id":"f1083829da20","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.83.48.145:58526","t":"2021-11-22T09:16:41.637974622+08:00"}
+{"id":"c164e7ecbdbf","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.83.48.145:37336","t":"2021-11-22T09:17:58.791748283+08:00"}
