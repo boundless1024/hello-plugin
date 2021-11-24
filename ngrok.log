@@ -206,3 +206,12 @@
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-24T21:28:54.803285716+08:00"}
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-24T21:29:24.80841216+08:00"}
 {"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-24T21:29:54.812973424+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-24T21:30:24.814240866+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-24T21:30:54.818898785+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-24T21:31:25.836964816+08:00"}
+{"id":"0ef5e8fedcb3","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-24T21:31:26.552222691+08:00"}
+{"clientid":"20a504c82d75a65175fe00ec00a5fdd9","id":"d2cc62b5b5f3","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-24T21:33:13.762425723+08:00"}
+{"err":"session closed","id":"0ef5e8fedcb3","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-24T21:33:13.763213908+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-24T21:33:14.945688781+08:00"}
+{"id":"0ef5e8fedcb3","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-24T21:33:16.1175207+08:00"}
+{"id":"2b945055ce23","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.190.171.95:42474","t":"2021-11-24T21:33:54.976749363+08:00"}
