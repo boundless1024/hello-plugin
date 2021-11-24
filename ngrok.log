@@ -420,3 +420,13 @@
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:29:04.972266431+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:29:25.104641768+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:29:53.640527573+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:30:23.644929764+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:30:53.649700224+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:31:23.654686527+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:31:53.656167189+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:32:23.660210396+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:32:53.665252661+08:00"}
+{"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:33:25.086452892+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"0ef5e8fedcb3","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T02:33:55.08728018+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-25T02:34:26.747012546+08:00"}
+{"id":"0ef5e8fedcb3","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-25T02:34:27.420315838+08:00"}
