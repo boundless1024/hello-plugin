@@ -55,3 +55,11 @@
 {"id":"348a91640c6c","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-25T15:31:49.187795223+08:00"}
 {"id":"8f2b949bab5a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"5.62.49.109:3622","t":"2021-11-25T15:38:29.656981501+08:00"}
 {"id":"a4c56aa3d8f6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.241.4:59773","t":"2021-11-25T15:38:58.044000647+08:00"}
+{"clientid":"86d2b2ce35f36c7d327b723afc0fc042","id":"e0bec54db263","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-25T15:49:52.500741587+08:00"}
+{"err":"session closed","id":"348a91640c6c","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-25T15:49:52.501614591+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:49:52.505195399+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:49:53.008188854+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:49:53.785813822+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:49:54.766162816+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:49:56.226856058+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:49:58.520844158+08:00"}
