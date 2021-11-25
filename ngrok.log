@@ -145,3 +145,13 @@
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T17:28:40.046392346+08:00"}
 {"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T17:29:10.051315416+08:00"}
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T17:29:40.052575122+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-25T17:30:15.832189451+08:00"}
+{"id":"348a91640c6c","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-25T17:30:16.521358856+08:00"}
+{"id":"cafb9641fa69","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"5.62.49.109:3644","t":"2021-11-25T17:31:48.659317832+08:00"}
+{"id":"736ba3f0b41e","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.130.6:48234","t":"2021-11-25T17:34:35.000035522+08:00"}
+{"id":"7d8dc84f63fc","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.130.6:48222","t":"2021-11-25T17:34:35.000048503+08:00"}
+{"id":"b64b21cf2b03","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.130.6:48258","t":"2021-11-25T17:34:35.211846913+08:00"}
+{"id":"afb2dfe05b1d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.130.6:48286","t":"2021-11-25T17:34:35.625489362+08:00"}
+{"id":"5a5379d0eedc","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.130.6:48380","t":"2021-11-25T17:34:41.348847486+08:00"}
+{"id":"6a033051910f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.130.6:48556","t":"2021-11-25T17:34:47.838428618+08:00"}
+{"id":"eccb46b77461","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.201.130.6:48680","t":"2021-11-25T17:34:53.436160535+08:00"}
