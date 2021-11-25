@@ -53,3 +53,5 @@
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:31:16.70206754+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-25T15:31:48.421642035+08:00"}
 {"id":"348a91640c6c","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-25T15:31:49.187795223+08:00"}
+{"id":"8f2b949bab5a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"5.62.49.109:3622","t":"2021-11-25T15:38:29.656981501+08:00"}
+{"id":"a4c56aa3d8f6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.241.4:59773","t":"2021-11-25T15:38:58.044000647+08:00"}
