@@ -48,3 +48,8 @@
 {"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:29:23.993961482+08:00"}
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:29:32.199496285+08:00"}
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:29:45.995029673+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:30:07.675056903+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:30:36.699664673+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-25T15:31:16.70206754+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-25T15:31:48.421642035+08:00"}
+{"id":"348a91640c6c","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-25T15:31:49.187795223+08:00"}
