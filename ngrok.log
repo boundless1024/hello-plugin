@@ -803,3 +803,4 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-26T20:05:30.995853934+08:00"}
 {"id":"348a91640c6c","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-26T20:05:31.673627476+08:00"}
 {"clientid":"86d2b2ce35f36c7d327b723afc0fc042","id":"25aa353c10ae","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-26T20:05:39.385498386+08:00"}
+{"id":"f5f8c98e29ca","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.241.4:14479","t":"2021-11-26T20:11:14.722816776+08:00"}
