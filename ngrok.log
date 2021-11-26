@@ -520,3 +520,4 @@
 {"id":"7098173288ab","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.241.4:22410","t":"2021-11-26T07:47:17.342002053+08:00"}
 {"err":"dial tcp 127.0.0.1:8880: connect: connection refused","id":"e132780cead5","lvl":"warn","msg":"failed to open private leg","privaddr":"localhost:8880","t":"2021-11-26T07:51:17.923083829+08:00"}
 {"id":"8e5f799608de","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.241.4:17081","t":"2021-11-26T08:03:45.962091049+08:00"}
+{"id":"4d6c3ce2eef3","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.241.4:25762","t":"2021-11-26T08:06:52.917724535+08:00"}
