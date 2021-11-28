@@ -1671,3 +1671,17 @@
 {"id":"92bdc9d9fb8f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.71:20936","t":"2021-11-28T10:58:57.618957463+08:00"}
 {"id":"76c9944f7495","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.121.80.182:39166","t":"2021-11-28T11:04:54.546577337+08:00"}
 {"id":"a200e8c4a665","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.121.80.182:39458","t":"2021-11-28T11:04:59.312357774+08:00"}
+{"err":"read EOF from remote peer","id":"348a91640c6c","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-11-28T11:05:32.486808823+08:00"}
+{"clientid":"86d2b2ce35f36c7d327b723afc0fc042","id":"74ed36eb2636","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-11-28T11:05:33.953884004+08:00"}
+{"err":"dial tcp 3.16.250.205:443: i/o timeout","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:05:42.487999667+08:00"}
+{"err":"dial tcp 3.134.73.173:443: i/o timeout","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:05:52.99050264+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:06:03.65118723+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": context deadline exceeded","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:06:14.702224214+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:06:16.202125076+08:00"}
+{"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:06:18.809765118+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:06:32.404009509+08:00"}
+{"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:06:39.307967448+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:06:47.488379572+08:00"}
+{"err":"dial tcp 3.136.132.147:443: i/o timeout","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:07:08.291868479+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-28T11:07:25.455126071+08:00"}
+{"id":"348a91640c6c","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-28T11:07:26.161721379+08:00"}
