@@ -1685,3 +1685,4 @@
 {"err":"dial tcp 3.136.132.147:443: i/o timeout","id":"348a91640c6c","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-11-28T11:07:08.291868479+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-11-28T11:07:25.455126071+08:00"}
 {"id":"348a91640c6c","lvl":"info","msg":"client session established","obj":"csess","t":"2021-11-28T11:07:26.161721379+08:00"}
+{"id":"6fd8e9762501","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.71:1102","t":"2021-11-28T11:10:44.548443345+08:00"}
