@@ -1611,3 +1611,7 @@
 {"id":"3e61173074c9","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.134.137.123:57314","t":"2021-11-28T09:03:05.637272603+08:00"}
 {"id":"be185b7d3618","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.71:30386","t":"2021-11-28T09:07:19.856775136+08:00"}
 {"id":"6fa6df295c19","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.71:43574","t":"2021-11-28T09:11:33.356494934+08:00"}
+{"err":"Post \"https://update.equinox.io/check\": context deadline exceeded","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2021-11-28T09:20:28.218462244+08:00"}
+{"id":"57c85bb1e88a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.71:27040","t":"2021-11-28T09:22:22.569576894+08:00"}
+{"id":"1601393aa5e3","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.121.80.182:46092","t":"2021-11-28T09:24:19.550815508+08:00"}
+{"id":"eea3052aec12","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.121.80.182:47778","t":"2021-11-28T09:24:29.399858436+08:00"}
