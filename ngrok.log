@@ -113,3 +113,22 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T21:54:55.309580796+08:00"}
 {"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-01T21:54:56.086066008+08:00"}
 {"id":"5d934107e43d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"157.0.153.137:14753","t":"2021-12-01T21:54:56.089180995+08:00"}
+{"id":"dec1fcf4e1f7","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.243.132.179:43420","t":"2021-12-01T21:55:25.381683415+08:00"}
+{"id":"0f226df4d2a2","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.243.132.179:52282","t":"2021-12-01T21:55:36.224567383+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"ef3adc83e706","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-01T21:57:08.824775688+08:00"}
+{"err":"session closed","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-01T21:57:08.825665738+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T21:57:09.785494506+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-01T21:57:10.494786716+08:00"}
+{"id":"40ee75beb847","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"157.0.153.137:15149","t":"2021-12-01T21:58:31.368686297+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"9282182ae35d","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-01T21:59:17.503710795+08:00"}
+{"err":"session closed","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-01T21:59:17.50456104+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:17.512574112+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:18.016151633+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:18.71616474+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:19.715772896+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:21.144268261+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:23.577141707+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:27.263119018+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:32.350646208+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:39.170157735+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:59:50.460275489+08:00"}
