@@ -1090,3 +1090,22 @@
 {"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:39:16.247462592+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:39:47.124679969+08:00"}
 {"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:39:47.353418879+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:40:18.274885125+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:40:18.619561805+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:40:49.338625793+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:40:49.575395993+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:41:20.712754587+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:41:21.060223844+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:41:51.773072494+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:41:52.005483056+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:42:22.96588486+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:42:23.208072715+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:42:54.15661686+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:42:54.686851097+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:43:24.692201059+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:43:55.561719029+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:43:56.096923018+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:44:26.961914896+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:44:27.433399573+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T16:44:58.535540816+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:19897' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"a0b63046341f","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T16:44:58.879754908+08:00"}
