@@ -79,3 +79,19 @@
 {"err":"session closed","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-01T21:44:36.135376654+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T21:44:37.560854731+08:00"}
 {"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-01T21:44:38.566730207+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"295927fe0639","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-01T21:45:56.377719784+08:00"}
+{"err":"session closed","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-01T21:45:56.378756867+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:45:56.382071476+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:45:56.885803019+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:45:57.704698177+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:45:59.074815657+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:46:01.337615349+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:46:04.917527177+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:46:20.854656904+08:00"}
+{"err":"x509: certificate is valid for tunnel.us.ngrok.com, not korgn.su.lennut.com","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:46:31.129857484+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-01T21:46:42.447925415+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-01T21:47:02.303280927+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-01T21:47:03.090778377+08:00"}
+{"id":"775174cc063d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"157.0.153.137:13969","t":"2021-12-01T21:47:27.03764913+08:00"}
+{"id":"fd302dee997a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:20220","t":"2021-12-01T21:48:18.537340341+08:00"}
+{"id":"2905e649c08d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:27462","t":"2021-12-01T21:49:32.1660781+08:00"}
