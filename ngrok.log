@@ -889,3 +889,7 @@
 {"id":"13df6ae820c7","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:42415","t":"2021-12-02T21:31:25.501826065+08:00"}
 {"id":"caaf782d0796","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:46366","t":"2021-12-02T21:44:40.33751469+08:00"}
 {"id":"4b8b59a08094","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:23902","t":"2021-12-02T21:58:20.777610238+08:00"}
+{"err":"read EOF from remote peer","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-02T22:04:11.536806219+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"4a6097487084","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-02T22:04:12.096661196+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-02T22:04:12.702984367+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-02T22:04:13.629967615+08:00"}
