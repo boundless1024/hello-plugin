@@ -702,3 +702,10 @@
 {"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:13:59.07192936+08:00"}
 {"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:14:29.076890817+08:00"}
 {"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:14:59.081449773+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:15:29.08282814+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:15:59.087571877+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:16:29.092296491+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:16:59.096683549+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:17:29.097650037+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-02T15:17:59.95952395+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-02T15:18:00.728761686+08:00"}
