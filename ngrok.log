@@ -821,3 +821,8 @@
 {"id":"c6a3aaee5eb2","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:52551","t":"2021-12-02T19:18:08.086156458+08:00"}
 {"id":"15bfb1fbd8ea","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:27117","t":"2021-12-02T19:25:32.974929987+08:00"}
 {"id":"96f83ef0d82a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:29291","t":"2021-12-02T19:38:25.902917949+08:00"}
+{"id":"492aed1483d9","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:56773","t":"2021-12-02T19:43:38.123857697+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"c929f8ec832d","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-02T19:44:34.352158274+08:00"}
+{"err":"session closed","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-02T19:44:34.353054791+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-02T19:44:41.411894514+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-02T19:44:42.440875859+08:00"}
