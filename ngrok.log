@@ -709,3 +709,4 @@
 {"err":"resolved tunnel.us.ngrok.com has no records","id":"fdde35153f4d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-02T15:17:29.097650037+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-02T15:17:59.95952395+08:00"}
 {"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-02T15:18:00.728761686+08:00"}
+{"id":"c28401689689","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.249.38:25819","t":"2021-12-02T15:20:40.456943994+08:00"}
