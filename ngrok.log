@@ -2184,3 +2184,14 @@
 {"id":"8478048a6b95","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.221.31.44:45344","t":"2021-12-04T14:26:52.225309017+08:00"}
 {"id":"3c7d1f5437db","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.221.31.44:45448","t":"2021-12-04T14:26:56.124014447+08:00"}
 {"id":"093f3f102a43","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.4:12731","t":"2021-12-04T14:31:38.640843796+08:00"}
+{"id":"a04e37ca8ff4","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.4:43679","t":"2021-12-04T14:37:07.635445974+08:00"}
+{"err":"read EOF from remote peer","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-04T14:37:08.420427017+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-04T14:37:09.128109912+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-04T14:37:09.842754353+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"84a0b60fd06a","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-04T14:37:17.620514893+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"55ea2061b726","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-04T14:37:54.331330063+08:00"}
+{"err":"session closed","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-04T14:37:54.332663203+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-04T14:37:55.022813868+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-04T14:37:55.737262677+08:00"}
+{"id":"911dbffa3f83","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.147.108.160:46858","t":"2021-12-04T14:38:05.564867181+08:00"}
+{"id":"4a8d4580a515","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.147.108.160:49630","t":"2021-12-04T14:38:10.210514052+08:00"}
