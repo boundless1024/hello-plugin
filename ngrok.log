@@ -3222,3 +3222,14 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-06T01:27:15.723601596+08:00"}
 {"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-06T01:27:16.411072254+08:00"}
 {"id":"20f47bb2d16a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"82.78.48.28:63867","t":"2021-12-06T01:28:42.340758046+08:00"}
+{"err":"read EOF from remote peer","id":"fdde35153f4d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-06T01:30:30.884306283+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-06T01:30:31.5612574+08:00"}
+{"id":"fdde35153f4d","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-06T01:30:32.252592908+08:00"}
+{"clientid":"50b31746679bc661df1b17d94880389f","id":"864b3aaa7ee4","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-06T01:30:34.0241532+08:00"}
+{"id":"525f2f1ddf45","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.4:16167","t":"2021-12-06T01:31:11.634287208+08:00"}
+{"id":"54b6936e83e6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.140.76:42778","t":"2021-12-06T01:33:28.646090509+08:00"}
+{"id":"a6192544a396","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.140.76:42890","t":"2021-12-06T01:33:32.54122225+08:00"}
+{"id":"1e18560f9bcb","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.140.76:45684","t":"2021-12-06T01:33:35.981702207+08:00"}
+{"id":"933daa9ab0ab","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.140.76:43060","t":"2021-12-06T01:33:39.974145438+08:00"}
+{"id":"f892cdaf5865","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.140.76:53426","t":"2021-12-06T01:33:43.847419998+08:00"}
+{"id":"fc094a7c5fd4","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.140.76:53550","t":"2021-12-06T01:33:47.923735549+08:00"}
