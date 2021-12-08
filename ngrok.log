@@ -70,3 +70,5 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-08T21:53:40.83466209+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-08T21:53:41.696669865+08:00"}
 {"id":"e8da632d9a34","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:11457","t":"2021-12-08T21:54:39.09874139+08:00"}
+{"id":"3d1440ef3487","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.67.0.139:44856","t":"2021-12-08T21:55:52.080321217+08:00"}
+{"id":"b94531d8fdf6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.67.0.139:45168","t":"2021-12-08T21:55:57.286181758+08:00"}
