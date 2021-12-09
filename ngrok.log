@@ -546,3 +546,7 @@
 {"id":"80280a3e554c","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:32023","t":"2021-12-09T13:45:43.690542432+08:00"}
 {"id":"2e1ec925b957","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:65050","t":"2021-12-09T13:52:58.642344184+08:00"}
 {"id":"8208995026b8","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:14026","t":"2021-12-09T13:56:12.460182999+08:00"}
+{"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"7cae9095de9a","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-09T14:04:48.217632738+08:00"}
+{"err":"session closed","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-09T14:04:48.218085303+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-09T14:04:50.023589279+08:00"}
+{"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-09T14:04:50.719155003+08:00"}
