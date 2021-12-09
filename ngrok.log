@@ -736,3 +736,5 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-09T23:17:48.362282753+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-09T23:17:49.137932493+08:00"}
 {"id":"ac942a1542f7","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:44341","t":"2021-12-09T23:18:41.235689736+08:00"}
+{"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"7ba874c40d7f","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-09T23:24:52.432235528+08:00"}
+{"err":"session closed","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-09T23:24:52.43269121+08:00"}
