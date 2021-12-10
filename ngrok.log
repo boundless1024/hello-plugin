@@ -1123,3 +1123,4 @@
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"3d45b01d3abd","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-10T11:09:55.925084814+08:00"}
 {"err":"session closed","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-10T11:09:55.925621101+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-10T11:09:57.107925616+08:00"}
+{"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-10T11:10:02.273766899+08:00"}
