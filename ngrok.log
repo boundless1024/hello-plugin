@@ -1120,3 +1120,6 @@
 {"id":"33e67f1cd5b4","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.149.9:58030","t":"2021-12-10T10:53:35.612441724+08:00"}
 {"id":"007c1596d329","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.102.216:37582","t":"2021-12-10T10:56:13.117665274+08:00"}
 {"id":"943f67b31cf5","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.102.216:56608","t":"2021-12-10T10:56:16.809169287+08:00"}
+{"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"3d45b01d3abd","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-10T11:09:55.925084814+08:00"}
+{"err":"session closed","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-10T11:09:55.925621101+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-10T11:09:57.107925616+08:00"}
