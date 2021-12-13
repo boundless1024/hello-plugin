@@ -3378,3 +3378,11 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-13T14:29:47.238271549+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-13T14:29:47.954135349+08:00"}
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"42f160b89dc4","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-13T14:29:55.543471089+08:00"}
+{"id":"d63078aa06be","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:49888","t":"2021-12-13T14:31:03.120856454+08:00"}
+{"err":"read EOF from remote peer","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-13T14:31:22.410932186+08:00"}
+{"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"089056a0256c","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-13T14:31:23.441014054+08:00"}
+{"err":"dial tcp 3.134.73.173:443: i/o timeout","id":"2220fbd28205","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-13T14:31:32.411713437+08:00"}
+{"err":"dial tcp 3.134.73.173:443: i/o timeout","id":"2220fbd28205","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-13T14:31:42.913538637+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"2220fbd28205","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-13T14:31:53.730371386+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-13T14:31:56.582245353+08:00"}
+{"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-13T14:31:57.272658902+08:00"}
