@@ -4494,3 +4494,16 @@
 {"id":"8f05e4bd20e0","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.221.177.165:60570","t":"2021-12-15T02:21:30.55191668+08:00"}
 {"id":"623001e5ff6a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"87.251.64.142:63360","t":"2021-12-15T02:22:01.459780413+08:00"}
 {"id":"f6b637ced947","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:49942","t":"2021-12-15T02:24:24.24230072+08:00"}
+{"id":"33eb7df45c26","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:60898","t":"2021-12-15T02:26:14.695311251+08:00"}
+{"id":"92c35085cbbe","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:57348","t":"2021-12-15T02:26:18.511795856+08:00"}
+{"id":"590c3c9e2f41","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:33076","t":"2021-12-15T02:26:22.513128381+08:00"}
+{"id":"ba5907d582ec","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:33410","t":"2021-12-15T02:26:26.77079112+08:00"}
+{"id":"1448cc0756fc","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:49948","t":"2021-12-15T02:26:30.543568105+08:00"}
+{"id":"609061f79cf9","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:47648","t":"2021-12-15T02:26:34.579535629+08:00"}
+{"id":"7aeb474fb4dd","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:35356","t":"2021-12-15T02:26:39.121733074+08:00"}
+{"id":"804bea16e39f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.18.186:34334","t":"2021-12-15T02:26:43.375265672+08:00"}
+{"err":"read EOF from remote peer","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-15T02:29:45.318223884+08:00"}
+{"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"a9ec9170514e","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-15T02:29:54.883839251+08:00"}
+{"err":"dial tcp 3.134.73.173:443: i/o timeout","id":"2220fbd28205","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-15T02:29:55.320081562+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-15T02:29:56.516321588+08:00"}
+{"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-15T02:29:57.22362052+08:00"}
