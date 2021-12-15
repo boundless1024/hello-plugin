@@ -4738,3 +4738,13 @@
 {"id":"15036b90aac4","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.237.195.45:49596","t":"2021-12-15T09:08:04.197409066+08:00"}
 {"id":"c00e0b1719e8","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.237.195.45:49840","t":"2021-12-15T09:08:07.910441746+08:00"}
 {"id":"c28ff916b4f3","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:17871","t":"2021-12-15T09:15:42.882253506+08:00"}
+{"id":"16fcb5590828","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.236:51163","t":"2021-12-15T09:21:08.098816398+08:00"}
+{"id":"8667a42fd6c8","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.222.7:60202","t":"2021-12-15T09:21:38.616318504+08:00"}
+{"id":"d1679d101a0b","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.222.7:39928","t":"2021-12-15T09:21:42.811185076+08:00"}
+{"id":"63481f8187e0","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.222.7:54326","t":"2021-12-15T09:21:47.889324507+08:00"}
+{"id":"8d001e70cbb5","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.222.7:33098","t":"2021-12-15T09:21:52.976886273+08:00"}
+{"id":"3f36ad47534d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.222.7:37860","t":"2021-12-15T09:21:57.442763778+08:00"}
+{"err":"read EOF from remote peer","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-15T09:24:49.999883076+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-15T09:24:50.759318076+08:00"}
+{"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-15T09:24:51.543820018+08:00"}
+{"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"3301472d3157","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-15T09:24:58.868383808+08:00"}
