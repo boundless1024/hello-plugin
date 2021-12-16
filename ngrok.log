@@ -5707,3 +5707,7 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-16T16:19:47.784126723+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-16T16:19:48.474699488+08:00"}
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"ee3224001ef3","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-16T16:19:55.807905441+08:00"}
+{"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"89ceab554ba2","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-16T16:20:32.975165065+08:00"}
+{"err":"session closed","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-16T16:20:32.975619373+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-16T16:20:33.656146996+08:00"}
+{"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-16T16:20:34.360153862+08:00"}
