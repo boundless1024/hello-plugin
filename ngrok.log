@@ -7657,3 +7657,4 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-18T08:14:49.012330707+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-18T08:14:49.812657536+08:00"}
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"37887a8e6ca5","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-18T08:14:55.193416586+08:00"}
+{"id":"332d72c5138d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.246:49452","t":"2021-12-18T08:15:48.915093973+08:00"}
