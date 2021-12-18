@@ -8044,3 +8044,6 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-18T21:19:49.702738733+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-18T21:19:50.437344405+08:00"}
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"1259a01a11aa","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-18T21:19:54.224843377+08:00"}
+{"id":"e4d168781a57","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.246:31090","t":"2021-12-18T21:20:12.901465151+08:00"}
+{"id":"efadfc788f7f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.188.244.252:50348","t":"2021-12-18T21:22:05.157115946+08:00"}
+{"id":"3bc8c5660395","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.188.244.252:50598","t":"2021-12-18T21:22:08.948542156+08:00"}
