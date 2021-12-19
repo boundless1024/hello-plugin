@@ -9093,3 +9093,4 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-20T00:19:46.802394855+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-20T00:19:47.551667992+08:00"}
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"47c21c68ea2e","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-20T00:19:54.749730222+08:00"}
+{"id":"1c6d4251ab7a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.246:25919","t":"2021-12-20T00:20:44.926038717+08:00"}
