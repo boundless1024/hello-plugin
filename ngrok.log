@@ -9999,3 +9999,5 @@
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-20T23:14:53.057603192+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-20T23:14:53.77677952+08:00"}
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"f221c4fccea2","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-20T23:14:59.830458442+08:00"}
+{"id":"352ba650307c","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.183.3:56166","t":"2021-12-20T23:21:59.058671991+08:00"}
+{"id":"a964e7709ea1","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.74.183.3:56368","t":"2021-12-20T23:22:02.720229024+08:00"}
