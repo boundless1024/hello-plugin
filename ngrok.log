@@ -9718,3 +9718,4 @@
 {"err":"session closed","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-20T15:29:56.15766128+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-20T15:29:57.001865747+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-20T15:29:57.798506135+08:00"}
+{"id":"76bc55e1b240","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.246:60173","t":"2021-12-20T15:31:19.992507281+08:00"}
