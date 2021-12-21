@@ -10840,3 +10840,4 @@
 {"err":"session closed","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-21T19:39:49.727251789+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-21T19:39:50.508437113+08:00"}
 {"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-21T19:39:51.287612563+08:00"}
+{"id":"5b66721d053a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.246.246:19940","t":"2021-12-21T19:40:12.335323243+08:00"}
