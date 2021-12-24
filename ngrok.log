@@ -13599,3 +13599,7 @@
 {"id":"88d1743c016d","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.73.62.70:47866","t":"2021-12-25T00:04:17.278279985+08:00"}
 {"err":"read EOF from remote peer","id":"2220fbd28205","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2021-12-25T00:04:54.415867803+08:00"}
 {"clientid":"75f1494f0ead890037ee0f9f3afc2541","id":"e7438cbd4a82","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2021-12-25T00:04:55.401444387+08:00"}
+{"err":"dial tcp 3.16.250.205:443: i/o timeout","id":"2220fbd28205","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2021-12-25T00:05:04.417156219+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2021-12-25T00:05:05.624283129+08:00"}
+{"id":"2220fbd28205","lvl":"info","msg":"client session established","obj":"csess","t":"2021-12-25T00:05:06.349836449+08:00"}
+{"id":"e97a05164b66","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.245.41:46499","t":"2021-12-25T00:05:13.05457273+08:00"}
