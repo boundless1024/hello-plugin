@@ -5,3 +5,4 @@
 {"err":"Post \"https://update.equinox.io/check\": context deadline exceeded","lvl":"warn","msg":"failed to check for update","obj":"updater","t":"2022-01-02T13:17:28.183286657+08:00"}
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http (http)","obj":"tunnels","t":"2022-01-02T15:50:11.539312128+08:00","url":"http://ed9e-157-0-153-186.ngrok.io"}
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http","obj":"tunnels","t":"2022-01-02T15:50:11.539593869+08:00","url":"https://ed9e-157-0-153-186.ngrok.io"}
+{"id":"7cdf96c7ebf1","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.245.41:31006","t":"2022-01-02T15:53:15.541896676+08:00"}
