@@ -1215,3 +1215,4 @@
 {"id":"5b4689f94190","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.245.41:39317","t":"2022-01-03T15:13:05.268477301+08:00"}
 {"err":"dial tcp 127.0.0.1:8880: connect: connection refused","id":"7d628e514e5d","lvl":"warn","msg":"failed to open private leg","privaddr":"localhost:8880","t":"2022-01-03T15:16:10.717504452+08:00"}
 {"id":"020c5b7f802f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.245.41:20208","t":"2022-01-03T15:19:28.058105844+08:00"}
+{"id":"bdbaa9d8aa9e","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.245.41:60087","t":"2022-01-03T15:24:51.794202416+08:00"}
