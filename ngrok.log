@@ -1065,3 +1065,23 @@
 {"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:19:09.92983078+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:19:40.621388573+08:00"}
 {"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:19:40.852183032+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:20:11.554572252+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:20:11.792113353+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:20:42.521006339+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:20:42.759007423+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:21:13.464642174+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:21:13.699989463+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:21:44.412381316+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:21:44.64485819+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:22:15.399473363+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:22:15.629432731+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:22:46.317350116+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:22:46.544929668+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:23:17.230294198+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:23:17.45765771+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:23:48.184075035+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:23:48.718012691+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:24:19.452547408+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:24:19.689633765+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T03:24:50.39035668+08:00"}
+{"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T03:24:50.893969259+08:00"}
