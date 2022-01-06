@@ -2577,3 +2577,5 @@
 {"err":"The tunnel 'tcp://0.tcp.ngrok.io:14471' is already bound to another tunnel session\r\n\r\nERR_NGROK_334\r\n","id":"15d6742dd19e","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-06T09:50:56.191756629+08:00"}
 {"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-06T09:51:26.889620149+08:00"}
 {"id":"15d6742dd19e","lvl":"info","msg":"client session established","obj":"csess","t":"2022-01-06T09:51:27.583346822+08:00"}
+{"id":"ed6b523e05d7","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.166.81:37362","t":"2022-01-06T09:56:09.144156594+08:00"}
+{"id":"56ed1678c62c","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.166.81:37632","t":"2022-01-06T09:56:13.15028234+08:00"}
