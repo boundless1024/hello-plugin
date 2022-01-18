@@ -59,3 +59,16 @@
 {"id":"d6bfe17c909f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.112.114:53202","t":"2022-01-18T21:39:35.014584594+08:00"}
 {"id":"bc658adbc243","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.112.114:53878","t":"2022-01-18T21:39:45.963553308+08:00"}
 {"id":"29928a292bda","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"35.245.112.114:44332","t":"2022-01-18T21:39:53.646375776+08:00"}
+{"clientid":"c4683efb69c1ca9ad0408fad39e55b87","id":"331fe17b91d5","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2022-01-18T21:40:21.694140593+08:00"}
+{"err":"session closed","id":"31414b8176c7","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2022-01-18T21:40:21.694910899+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:40:29.754076017+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-18T21:40:38.033709998+08:00"}
+{"id":"31414b8176c7","lvl":"info","msg":"client session established","obj":"csess","t":"2022-01-18T21:40:40.010504285+08:00"}
+{"id":"c728595b3821","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.213.217:44908","t":"2022-01-18T21:43:01.313845153+08:00"}
+{"id":"01812476f9c6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.17.88:57534","t":"2022-01-18T21:43:47.841464852+08:00"}
+{"id":"da2ba88a818f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.17.88:58030","t":"2022-01-18T21:43:56.707743716+08:00"}
+{"id":"1d6db0738908","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.17.88:34302","t":"2022-01-18T21:44:04.537735455+08:00"}
+{"id":"aa78abe5d1f2","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.17.88:58600","t":"2022-01-18T21:44:11.552477477+08:00"}
+{"id":"d1b47e7c5c06","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.17.88:39660","t":"2022-01-18T21:44:20.075423008+08:00"}
+{"id":"f0f6efccda2f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.17.88:50136","t":"2022-01-18T21:44:31.12094269+08:00"}
+{"id":"a2120b963cc2","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.125.17.88:59500","t":"2022-01-18T21:44:40.549844103+08:00"}
