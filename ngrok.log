@@ -24,3 +24,28 @@
 {"id":"4a86b6711def","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:53390","t":"2022-01-18T21:29:44.952829966+08:00"}
 {"id":"788bb56fc498","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:51118","t":"2022-01-18T21:29:50.674836521+08:00"}
 {"id":"5d58ac035584","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:54006","t":"2022-01-18T21:29:56.146253597+08:00"}
+{"id":"3a1e8e93c73f","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:60738","t":"2022-01-18T21:30:02.425785323+08:00"}
+{"id":"4cda432b4dc5","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:54790","t":"2022-01-18T21:30:07.610155226+08:00"}
+{"id":"803e7fc4fb70","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:52458","t":"2022-01-18T21:30:12.77936301+08:00"}
+{"id":"81d15f757639","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:55474","t":"2022-01-18T21:30:18.369123566+08:00"}
+{"id":"1ca4f333abe6","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"88.135.245.195:10310","t":"2022-01-18T21:30:58.820191451+08:00"}
+{"id":"0b2ba105cb59","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.75.124.179:56924","t":"2022-01-18T21:32:24.467312154+08:00"}
+{"id":"4e87268b9678","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.75.124.179:40232","t":"2022-01-18T21:32:29.657413715+08:00"}
+{"id":"a562bcd1944a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.75.124.179:58114","t":"2022-01-18T21:32:34.712803823+08:00"}
+{"clientid":"c4683efb69c1ca9ad0408fad39e55b87","id":"84172a3bf3e9","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2022-01-18T21:33:39.55846758+08:00"}
+{"err":"session closed","id":"31414b8176c7","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2022-01-18T21:33:39.559294652+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:39.562943306+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:40.066403604+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:40.882527767+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:42.159876978+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:44.339354007+08:00"}
+{"err":"dial tcp: lookup tunnel.us.ngrok.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:47.766226154+08:00"}
+{"err":"Get \"https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA\": dial tcp: lookup dns.google.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:52.139946774+08:00"}
+{"err":"Get \"https://s3.amazonaws.com/dns.ngrok.com/tunnel.json\": dial tcp: lookup s3.amazonaws.com on 127.0.0.53:53: server misbehaving","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:33:58.991118792+08:00"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"31414b8176c7","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2022-01-18T21:34:08.777744333+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-18T21:34:25.260215959+08:00"}
+{"id":"31414b8176c7","lvl":"info","msg":"client session established","obj":"csess","t":"2022-01-18T21:34:26.958998531+08:00"}
+{"clientid":"c4683efb69c1ca9ad0408fad39e55b87","id":"ef1125ee2c43","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2022-01-18T21:34:49.891881817+08:00"}
+{"err":"session closed","id":"31414b8176c7","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2022-01-18T21:34:49.892755771+08:00"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2022-01-18T21:34:52.935548428+08:00"}
+{"id":"31414b8176c7","lvl":"info","msg":"client session established","obj":"csess","t":"2022-01-18T21:34:55.715941083+08:00"}
