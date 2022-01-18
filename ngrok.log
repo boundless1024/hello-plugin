@@ -15,3 +15,12 @@
 {"addr":"//localhost:22","lvl":"info","msg":"started tunnel","name":"tcp","obj":"tunnels","t":"2022-01-18T21:24:54.073937089+08:00","url":"tcp://4.tcp.ngrok.io:17272"}
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http (http)","obj":"tunnels","t":"2022-01-18T21:24:54.376100325+08:00","url":"http://ed94-122-193-42-109.ngrok.io"}
 {"addr":"http://localhost:8880","lvl":"info","msg":"started tunnel","name":"http","obj":"tunnels","t":"2022-01-18T21:24:54.376513389+08:00","url":"https://ed94-122-193-42-109.ngrok.io"}
+{"id":"4152a0d6fc9a","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.172.12:39464","t":"2022-01-18T21:29:12.585237021+08:00"}
+{"id":"02975c824a8c","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.86.172.12:33554","t":"2022-01-18T21:29:18.848376715+08:00"}
+{"id":"4cc9ca79cb67","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:50548","t":"2022-01-18T21:29:43.589884632+08:00"}
+{"id":"baaadca02b34","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:50414","t":"2022-01-18T21:29:43.589885243+08:00"}
+{"id":"fdfb1f7a91bd","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:50270","t":"2022-01-18T21:29:43.589884984+08:00"}
+{"id":"bd9ecdfd1085","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:53276","t":"2022-01-18T21:29:43.592738901+08:00"}
+{"id":"4a86b6711def","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:53390","t":"2022-01-18T21:29:44.952829966+08:00"}
+{"id":"788bb56fc498","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:51118","t":"2022-01-18T21:29:50.674836521+08:00"}
+{"id":"5d58ac035584","l":"127.0.0.1:22","lvl":"info","msg":"join connections","obj":"join","r":"34.91.54.171:54006","t":"2022-01-18T21:29:56.146253597+08:00"}
